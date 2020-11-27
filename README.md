@@ -26,6 +26,11 @@ https://arxiv.org/abs/1703.05175
 Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales
 https://arxiv.org/pdf/1711.06025.pdf
 
+### [4] One-Shot Visual Imitation Learning via Meta-Learning
+Chelsea Finn, Tianhe Yu, Tianhao Zhang, Pieter Abbeel, Sergey Levine,
+https://arxiv.org/pdf/1709.04905.pdf
+
+
 ---
 ## 2018
 ### [1] On First-Order Meta-Learning Algorithms
@@ -39,6 +44,15 @@ https://arxiv.org/abs/1806.02817
 ### [3] Low-Shot Learning from Imaginary Data
 Yu-Xiong Wang, Ross Girshick, Martial Hebert, Bharath Hariharan,
 https://arxiv.org/pdf/1801.05401.pdf
+
+### [4] DARTS: Differentiable Architecture Search
+Hanxiao Liu, Karen Simonyan, Yiming Yang,
+https://arxiv.org/pdf/1806.09055.pdf
+
+### [5] Bayesian Model-Agnostic Meta-Learning
+Taesup Kim, Jaesik Yoon, Ousmane Dia, Sungwoong Kim, Yoshua Bengio, Sungjin Ahn,
+https://arxiv.org/pdf/1806.03836.pdf
+
 
 ---
 ## 2019
@@ -58,6 +72,12 @@ https://arxiv.org/pdf/1909.04630.pdf
 ### [4] Meta-Learning with Latent Embedding Optimization
 Andrei A. Rusu, Dushyant Rao, Jakub Sygnowski, Oriol Vinyals, Razvan Pascanu, Simon Osindero, Raia Hadsell,
 https://arxiv.org/pdf/1807.05960.pdf
+
+### [5] Meta-Learning for Black-box Optimization
+Vishnu TV, Pankaj Malhotra, Jyoti Narwariya, Lovekesh Vig, Gautam Shroff,
+https://arxiv.org/pdf/1907.06901.pdf
+
+
 ---
 ## 2020
 

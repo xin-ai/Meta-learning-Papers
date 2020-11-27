@@ -12,6 +12,11 @@ Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, 
 
 https://arxiv.org/pdf/1606.04474.pdf
 
+### [3] Low-shot Visual Recognition by Shrinking and Hallucinating Features
+Bharath Hariharan, Ross Girshick
+
+https://arxiv.org/pdf/1606.02819.pdf
+
 ---
 ## 2017
 ### [1] (MAML) Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
@@ -40,6 +45,12 @@ https://arxiv.org/pdf/1709.04905.pdf
 Victor Garcia, Joan Bruna,
 
 https://arxiv.org/pdf/1711.04043.pdf
+
+### [6] Learning Transferable Architectures for Scalable Image Recognition
+Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le
+
+https://arxiv.org/pdf/1707.07012.pdf
+
 
 ---
 ## 2018
@@ -88,6 +99,22 @@ Mengye Ren, Wenyuan Zeng, Bin Yang, Raquel Urtasun,
 
 https://arxiv.org/pdf/1803.09050.pdf
 
+### [10] TADAM: Task dependent adaptive metric for improved few-shot learning
+Boris N. Oreshkin, Pau Rodriguez, Alexandre Lacoste
+
+https://arxiv.org/pdf/1805.10123.pdf
+
+### [11] Taskonomy: Disentangling Task Transfer Learning
+Amir Zamir, Alexander Sax, William Shen, Leonidas Guibas, Jitendra Malik, Silvio Savarese
+
+https://arxiv.org/pdf/1804.08328.pdf
+
+### [12] Recasting Gradient-Based Meta-Learning as Hierarchical Bayes
+Erin Grant, Chelsea Finn, Sergey Levine, Trevor Darrell, Thomas Griffiths
+
+https://arxiv.org/pdf/1801.08930.pdf
+
+
 ---
 ## 2019
 ### [1] HOW TO TRAIN YOUR MAML
@@ -135,6 +162,10 @@ Chelsea Finn, Aravind Rajeswaran, Sham Kakade, Sergey Levine,
 
 https://arxiv.org/pdf/1902.08438.pdf
 
+### [10] Meta reinforcement learning as task inference
+Jan Humplik, Alexandre Galashov, Leonard Hasenclever, Pedro A. Ortega, Yee Whye Teh, Nicolas Heess
+
+https://arxiv.org/pdf/1905.06424.pdf
 
 ---
 ## 2020

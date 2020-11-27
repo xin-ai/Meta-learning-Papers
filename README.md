@@ -42,7 +42,22 @@ https://arxiv.org/pdf/1801.05401.pdf
 
 ---
 ## 2019
+### [1] HOW TO TRAIN YOUR MAML
 
+Antreas Antoniou, Harrison Edwards, Amos Storkey,
+https://arxiv.org/pdf/1810.09502.pdf
+
+### [2] A Simple Neural Attentive Meta-Learner
+Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel,
+https://arxiv.org/pdf/1707.03141.pdf
+
+### [3] Meta-Learning with Implicit Gradients
+Aravind Rajeswaran, Chelsea Finn, Sham Kakade, Sergey Levine,
+https://arxiv.org/pdf/1909.04630.pdf
+
+### [4] Meta-Learning with Latent Embedding Optimization
+Andrei A. Rusu, Dushyant Rao, Jakub Sygnowski, Oriol Vinyals, Razvan Pascanu, Simon Osindero, Raia Hadsell,
+https://arxiv.org/pdf/1807.05960.pdf
 ---
 ## 2020
 
